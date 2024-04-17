@@ -3990,19 +3990,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/erayozkan/.nuget/packages/": {}
+    "C:\\Users\\erayi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erayozkan/RiderProjects/CodingKata/CodingKata.Tests/CodingKata.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\erayi\\Projects\\CodingKata\\CodingKata.Tests\\CodingKata.Tests.csproj",
       "projectName": "CodingKata.Tests",
-      "projectPath": "/Users/erayozkan/RiderProjects/CodingKata/CodingKata.Tests/CodingKata.Tests.csproj",
-      "packagesPath": "/Users/erayozkan/.nuget/packages/",
-      "outputPath": "/Users/erayozkan/RiderProjects/CodingKata/CodingKata.Tests/obj/",
+      "projectPath": "C:\\Users\\erayi\\Projects\\CodingKata\\CodingKata.Tests\\CodingKata.Tests.csproj",
+      "packagesPath": "C:\\Users\\erayi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erayi\\Projects\\CodingKata\\CodingKata.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/erayozkan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\erayi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4014,8 +4014,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/erayozkan/RiderProjects/CodingKata/CodingKata/CodingKata.csproj": {
-              "projectPath": "/Users/erayozkan/RiderProjects/CodingKata/CodingKata/CodingKata.csproj"
+            "C:\\Users\\erayi\\Projects\\CodingKata\\CodingKata\\CodingKata.csproj": {
+              "projectPath": "C:\\Users\\erayi\\Projects\\CodingKata\\CodingKata\\CodingKata.csproj"
             }
           }
         }
@@ -4024,6 +4024,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4067,7 +4072,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
