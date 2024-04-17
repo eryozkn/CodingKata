@@ -1,0 +1,14 @@
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/bin/Debug/net8.0/CodingKata
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/bin/Debug/net8.0/CodingKata.deps.json
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/bin/Debug/net8.0/CodingKata.runtimeconfig.json
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/bin/Debug/net8.0/CodingKata.dll
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/bin/Debug/net8.0/CodingKata.pdb
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.AssemblyInfoInputs.cache
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.AssemblyInfo.cs
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.csproj.CoreCompileInputs.cache
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.dll
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/refint/CodingKata.dll
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.pdb
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/CodingKata.genruntimeconfig.cache
+/Users/erayozkan/RiderProjects/CodingKata/CodingKata/obj/Debug/net8.0/ref/CodingKata.dll
