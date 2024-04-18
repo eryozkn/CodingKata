@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CodingKata/FileContentIndex/523db946-7153-4132-98a8-da5acfd997c7.vsidx
+/CodingKata/obj/Debug/net8.0/CodingKata.AssemblyInfo.cs
+/CodingKata/obj/Debug/net8.0/CodingKata.AssemblyInfoInputs.cache
+/CodingKata/obj/CodingKata.csproj.nuget.dgspec.json
+/CodingKata/obj/CodingKata.csproj.nuget.g.props
+/CodingKata/obj/project.nuget.cache
+/CodingKata/obj/project.assets.json
+/CodingKata.Tests/obj/Debug/net8.0/CodingKata.Tests.AssemblyInfo.cs
+/CodingKata.Tests/obj/project.nuget.cache
+/CodingKata.Tests/obj/project.assets.json
+/CodingKata.Tests/obj/Debug/net8.0/CodingKata.Tests.AssemblyInfoInputs.cache
+/CodingKata.Tests/obj/CodingKata.Tests.csproj.nuget.dgspec.json
+/CodingKata.Tests/obj/CodingKata.Tests.csproj.nuget.g.props
