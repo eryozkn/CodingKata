@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingKata.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe93cba45bba7e2ab44cf6f2e7915776b43ff4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dabf0e29e854cdad2c4aa23777af6ebd015b754e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingKata.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingKata.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
